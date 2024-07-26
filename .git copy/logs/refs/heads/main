@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 1e8881990a7d20ddfc87453dd76c3e6515a0b0a1 Kun <gordonliang27@foxmail.com> 1718893525 +0800	commit (initial): [init] first init
+1e8881990a7d20ddfc87453dd76c3e6515a0b0a1 9353a455b194b7564487a3734da0fceeaafbc375 Kun-WSL <gordonliang27@foxmail.com> 1720754825 +0800	merge dev/interface: Fast-forward
+9353a455b194b7564487a3734da0fceeaafbc375 d27eea5c4bd8fe462aa064081c6d80a30f1f744d Kun-WSL <gordonliang27@foxmail.com> 1720773928 +0800	commit: [feat] reset rosparam with uneven setpoint
+d27eea5c4bd8fe462aa064081c6d80a30f1f744d 9d01e57b1cfd2b066892a47021cb49ef7729e36f Kun-WSL <gordonliang27@foxmail.com> 1720774768 +0800	commit: [readme] update V1.0 readme

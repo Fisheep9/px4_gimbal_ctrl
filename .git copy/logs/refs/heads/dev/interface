@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 1e8881990a7d20ddfc87453dd76c3e6515a0b0a1 Kun-WSL <gordonliang27@foxmail.com> 1720017205 +0800	branch: Created from HEAD
+1e8881990a7d20ddfc87453dd76c3e6515a0b0a1 6ad78a8aff5f73f43e19e79751465c921bb53c21 Kun-WSL <gordonliang27@foxmail.com> 1720054536 +0800	commit: [dev] alpha version
+6ad78a8aff5f73f43e19e79751465c921bb53c21 b29cff17935d529adb33b70ea23531c531af6663 Kun-WSL <gordonliang27@foxmail.com> 1720058047 +0800	commit: [readme] update readme
+b29cff17935d529adb33b70ea23531c531af6663 9353a455b194b7564487a3734da0fceeaafbc375 Kun-WSL <gordonliang27@foxmail.com> 1720754789 +0800	commit: [feat] prevent unevened params and add warning
